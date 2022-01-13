@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: G-Asura/waka-readme@master
         with:
-          Asura_API_KEY: ${{ secrets.Asura_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.Asura_API_KEY }}
