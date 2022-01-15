@@ -5,7 +5,7 @@
 ### :pill: You Know!
 <!--START_SECTION:waka-->
 ```text
-
+Go   3 hrs 46 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
