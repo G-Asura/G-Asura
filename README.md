@@ -5,9 +5,7 @@
 ### :pill: You Know!
 <!--START_SECTION:waka-->
 ```text
-Go      31 mins         ██████████▒░░░░░░░░░░░░░░   41.80 % 
-Other   25 mins         ████████▒░░░░░░░░░░░░░░░░   33.80 % 
-Rust    18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
