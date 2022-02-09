@@ -5,7 +5,8 @@
 ### :pill: You Know!
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go      1 hr 7 mins     ███████████████████████▓░   94.22 % 
+Other   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 ```
 <!--END_SECTION:waka-->
 
