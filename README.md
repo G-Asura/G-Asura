@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go      1 hr 53 mins    ████████████████████▓░░░░   83.03 %
+YAML    22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
