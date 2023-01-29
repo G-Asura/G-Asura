@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go         41 mins         ████████████████████░░░░░   80.03 %
+Makefile   10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.88 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
