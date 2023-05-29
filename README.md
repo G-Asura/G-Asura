@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :trophy: Github Profile Trophy
+<p align="left">
+	<br><a href="https://github.com/G-Asura/G-Asura"><img src="https://github-profile-trophy.vercel.app/?username=g-asura&theme=algolia&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Ghostwritten"  /></a> </p>
