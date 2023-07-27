@@ -6,11 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     22 mins         ████████████████░░░░░░░░░   64.01 %
-Go       6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
-Other    4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Docker   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
