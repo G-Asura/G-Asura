@@ -6,11 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 3 mins     ██████████▓░░░░░░░░░░░░░░   42.18 %
-Go           48 mins         ████████░░░░░░░░░░░░░░░░░   32.07 %
-Other        38 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
