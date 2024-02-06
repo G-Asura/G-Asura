@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                       4 mins          ████████████████████████▒   97.39 %
-Nginx configuration file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
