@@ -6,7 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust                       11 mins         ███████████████░░░░░░░░░░   60.64 %
+Markdown                   6 mins          █████████░░░░░░░░░░░░░░░░   36.23 %
+Bash                       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
