@@ -6,10 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                       11 mins         ███████████████░░░░░░░░░░   60.64 %
-Markdown                   6 mins          █████████░░░░░░░░░░░░░░░░   36.23 %
-Bash                       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Rust                       26 mins         ███████████████████▓░░░░░   78.45 %
+Markdown                   6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+Bash                       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
