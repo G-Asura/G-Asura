@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                       6 hrs 56 mins   ██████████▒░░░░░░░░░░░░░░   41.18 %
-Other                      4 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
-Nginx configuration file   4 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-Bash                       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-TOML                       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Rust                       6 hrs 42 mins   ███████████▒░░░░░░░░░░░░░   45.35 %
+Nginx configuration file   3 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
+Other                      3 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
+TOML                       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Bash                       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
