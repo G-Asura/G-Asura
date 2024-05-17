@@ -14,3 +14,8 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.Asura_API_KEY }}
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: G-Asura
+          svg_out_path: dist/github-contribution-grid-snake.svg
