@@ -6,7 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go         1 hr 5 mins     ████████░░░░░░░░░░░░░░░░░   32.57 %
+Other      1 hr 3 mins     ████████░░░░░░░░░░░░░░░░░   31.82 %
+Docker     1 hr 1 min      ███████▓░░░░░░░░░░░░░░░░░   30.76 %
+Makefile   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
