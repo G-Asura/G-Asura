@@ -6,9 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        55 mins         ███████████████░░░░░░░░░░   60.65 %
-TypeScript   21 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
-Makefile     14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+Other        55 mins         ███████████████████░░░░░░   76.16 %
+TypeScript   17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.84 %
 ```
 
 <!--END_SECTION:waka-->
