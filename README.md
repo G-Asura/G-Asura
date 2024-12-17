@@ -6,8 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    8 mins          ██████████████░░░░░░░░░░░   56.04 %
-Other   6 mins          ███████████░░░░░░░░░░░░░░   43.96 %
+Other        4 mins          █████████████████████████   99.56 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
