@@ -6,7 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Makefile   26 mins         ██████████▓░░░░░░░░░░░░░░   42.94 %
+Go         22 mins         █████████▒░░░░░░░░░░░░░░░   37.36 %
+YAML       11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
