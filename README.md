@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     1 min                 ████████████████░░░░░░░░░   63.67 %
-Docker   0 secs                █████████░░░░░░░░░░░░░░░░   36.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
